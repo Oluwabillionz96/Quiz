@@ -1,0 +1,29 @@
+.science {
+  margin-top: 100px;
+  gap: 4rem;
+  width: 100%;
+}
+
+.science > .topic{
+  height: 500px;
+}
+
+.science > .topic > .img{
+    height: 100%;
+}
+
+
+.categoryTopic {
+  display: flex;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.entertain {
+  flex-direction: column;
+  height: 100%;
+  margin: 50px auto;
+}

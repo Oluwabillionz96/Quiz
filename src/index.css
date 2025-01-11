@@ -1,0 +1,28 @@
+/* 🎮 Game-Like & Energetic */
+:root {
+  --primary-color: #007bff; /* Electric Blue */
+  --secondary-color: #ffd700; /* Bright Yellow */
+  --accent-color: #ff4c4c; /* Crimson Red (wrong answers) */
+  --background-color: #f2f2f2; /* Soft Gray */
+  --correct-color: #28a745; /* Green (correct answers) */
+  --wrong-color: #dc3545; /* Red (wrong answers) */
+  --timer-color: #f39c12; /* Orange (timer) */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  /* padding-bottom: 100px; */
+  background-color: var(--background-color);
+}

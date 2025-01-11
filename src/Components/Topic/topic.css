@@ -1,0 +1,26 @@
+.topic {
+  width: 25%;
+  height: 400px;
+  background-color: var(--secondary-color);
+  border-radius: 20px;
+}
+
+.topic-container {
+  width: 80%;
+  margin: 0 auto;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.topic-container > .flex {
+  justify-content: space-around;
+  width: 100%;
+}
+
+.topic h4 {
+  font-size: 1.1rem;
+}
+
+.topicc {
+  padding-bottom: 50px;
+}
