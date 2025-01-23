@@ -2,57 +2,57 @@
   "science": [
     {
       "name": "Computer",
-      "img": "./Computers.svg"
+      "img": "../src/assets/Computers.svg"
     },
     {
       "name": "Mathematics",
-      "img": "./math.svg"
+      "img": "../src/assets/math.svg"
     },
     {
       "name": "Gadgets",
-      "img": "./gadgets.svg"
+      "img": "../src/assets/gadgets.svg"
     }
   ],
   "entertainment": [
     {
       "name": "Books",
-      "img": "./books.svg"
+      "img": "../src/assets/books.svg"
     },
     {
       "name": "Films",
-      "img": "./films.svg"
+      "img": "../src/assets/films.svg"
     },
     {
       "name": "Musics",
-      "img": "./music.svg"
+      "img": "../src/assets/music.svg"
     },
     {
       "name": "Musicals & Theatres",
-      "img": "./theatre.svg"
+      "img": "../src/assets/theatre.svg"
     },
     {
       "name": "Television",
-      "img": "./tv.svg"
+      "img": "../src/assets/tv.svg"
     },
     {
       "name": "Video game",
-      "img": "./videoGames.svg"
+      "img": "../src/assets/videoGames.svg"
     },
     {
       "name": "Board game",
-      "img": "./boardGame.svg"
+      "img": "../src/assets/boardGame.svg"
     },
     {
       "name": "Comic",
-      "img": "./comic.svg"
+      "img": "../src/assets/comic.svg"
     },
     {
       "name": "Japanese Anime & Manga",
-      "img": "./japanese.svg"
+      "img": "../src/assets/japanese.svg"
     },
     {
       "name": "Cartoons & Animations",
-      "img": "./animations.svg"
+      "img": "../src/assets/animations.svg"
     }
   ]
 }
