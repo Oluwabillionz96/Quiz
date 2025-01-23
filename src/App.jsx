@@ -1,7 +1,5 @@
 import Navbar from "./Components/Navbar/Navbar";
-import Category from "./Components/Category/Category";
-import Topic from "./Components/Topic/Topic";
-import Settings from "./Components/Settings/settings";
+// import Settings from "./Components/Settings/settings";
 import Home from "./Layouts/Home";
 import CategoryLayout from "./Layouts/categoryLayout/CategoryLayout";
 import { Routes, Route } from "react-router-dom";
@@ -15,7 +13,7 @@ const App = () => {
       <Route path="/" element={<Navbar />}>
         <Route index element={<Home />} />
         <Route path="category/:id" element={<CategoryLayout />} />
-        <Route path="/settings" element={<Settings />} />
+        {/* <Route path="/settings" element={<Settings />} /> */}
       </Route>
     </Routes>
   );
