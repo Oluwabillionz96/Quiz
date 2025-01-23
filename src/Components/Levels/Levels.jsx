@@ -5,7 +5,7 @@ import { useState } from "react";
 
 const Levels = ({ handleIconClick }) => {
   const [levelSelected, setLevelSelected] = useState("medium");
-  return (
+  return  (
     <div className="levels">
       <header>
         Select Levels
@@ -32,7 +32,7 @@ const Levels = ({ handleIconClick }) => {
           console.log(levelSelected);
         }}
       />
-    </div>
+    </div >
   );
 };
 
